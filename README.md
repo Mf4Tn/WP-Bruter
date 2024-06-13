@@ -1,5 +1,5 @@
 # WP-Bruter
-A Wordpress wp-login.php Brute Froce with an Advanced passwords Generator
+A Wordpress wp-login.php Brute Force with an Advanced passwords Generator
 
 <b>Installation: </b>
 1. Clone the repository
